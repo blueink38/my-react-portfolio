@@ -7,7 +7,7 @@ import './Hero.css';
 function Hero() {
   return (
     <div className="hero-container">
-      {/* <video src='/videos/cideo-2.mp4' autoPlay loop muted /> */}
+      <video src='/videos/Saint-Barthelemy_2.mov' autoPlay loop muted />
       <h1>I am a developer</h1>
       <p>Let's work together!</p>
         <div className="hero-btns">
